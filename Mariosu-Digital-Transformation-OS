@@ -1,0 +1,89 @@
+Mariosu-Digital-Transformation-OS/
+│
+├── 00_Master_Index/
+│   ├── Master_Conversation_Summary.md
+│   ├── Vision_Statement.md
+│   ├── Career_Roadmap.md
+│   └── Leadership_Principles.md
+│
+├── 01_Active_Projects/
+│   ├── NAC_CADIP_II/
+│   │   ├── RFQ_Documents/
+│   │   ├── BOM/
+│   │   ├── Compliance_Matrix/
+│   │   ├── Proposal_Versions/
+│   │   └── Submission_Final/
+│   │
+│   ├── RTA_Digital_Platform/
+│   │   ├── TOR/
+│   │   ├── Architecture/
+│   │   ├── Technical_Design/
+│   │   ├── Regulatory_Alignment/
+│   │   └── Proposal_Versions/
+│   │
+│   ├── Xero_Unleashed_Integration/
+│   │   ├── Project_Plan/
+│   │   ├── Sandbox_Config/
+│   │   ├── Stocktake_Documentation/
+│   │   ├── Testing_Results/
+│   │   └── GoLive_Checklist/
+│   │
+│   └── NEA_Drone_Proposal/
+│       ├── BOM/
+│       ├── Warranty_Clauses/
+│       ├── Vendor_Correspondence/
+│       └── Final_Submission/
+│
+├── 02_Completed_Projects/
+│   ├── NCDC_CCTV_Phase1/
+│   ├── PNG_Ports_CCTV/
+│   ├── POMGEN_CCTV/
+│   └── Smart_Whiteboard_RFQ/
+│
+├── 03_Business_Ventures/
+│   ├── SmartTrack_PNG/
+│   │   ├── Business_Model/
+│   │   ├── Technical_Architecture/
+│   │   ├── Financial_Model/
+│   │   └── Marketing/
+│   │
+│   ├── Urban_Links/
+│   ├── PISC_Tech_Showroom/
+│   └── Property_Developments/
+│
+├── 04_Architecture_Blueprints/
+│   ├── Microsoft_365_Architecture/
+│   ├── Azure_Governance/
+│   ├── Hybrid_Cloud_Design/
+│   ├── CCTV_Standards_Design/
+│   └── AI_Agent_Frameworks/
+│
+├── 05_Compliance_and_Standards/
+│   ├── ISO_27001/
+│   ├── ISO_27017/
+│   ├── ISO_27018/
+│   ├── PNG_Data_Protection_Act_2024/
+│   ├── Digital_Government_Act_2022/
+│   └── ADB_Procurement_Guidelines/
+│
+├── 06_Financial_Models/
+│   ├── Personal_Cashflow/
+│   ├── School_Fee_Contracts/
+│   ├── Vehicle_Repayment_Plans/
+│   └── Business_Financial_Projections/
+│
+├── 07_Templates_and_Prompts/
+│   ├── RFQ_Master_Prompt.md
+│   ├── Proposal_Template.docx
+│   ├── BOM_Template.xlsx
+│   ├── Compliance_Matrix_Template.xlsx
+│   └── Email_Templates/
+│
+├── 08_Learning_and_Certification/
+│   ├── Microsoft_Learn_Notes/
+│   ├── Azure_Study/
+│   ├── AWS_Study/
+│   ├── AI_Research/
+│   └── Certification_Tracking.md
+│
+└── README.md
